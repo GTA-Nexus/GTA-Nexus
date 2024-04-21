@@ -1,14 +1,13 @@
 <h1 align="center">Bienvenido a GTA Nexus 👋</h1>
 <h3 align="center">Tu servidor de roleplay serio en España en la plataforma FiveM "cfx.re"</h3>
 
-<p align="center"> <img src="assets/gtanexus-wallpaper.png" alt="GTA Nexus Banner" /> </p>
-
-<p align="center"> <a href="https://www.instagram.com/gtanexuses" target="blank"><img src="assets/gtanexus-logo.png" alt="GTA Nexus Logo" /></a> </p>
+<img src="assets/gtanexus-wallpaper.png" alt="GTA Nexus Banner" />
 
 - 🔭 Estamos actualmente enfocados en crear la mejor experiencia de roleplay.
 - 🌱 Nos comprometemos a ofrecer un entorno de juego inmersivo y detallado.
 - 🤝 Únete a nuestra comunidad y contribuye al desarrollo de historias únicas.
 - 📫 Puedes contactarnos a través de **support@gtanexus.es** para soporte y más información.
+<img src="assets/gtanexus-logo.png" alt="GTA Nexus Logo" align="right" width=200/></a>
 
 <br/>
 <h3 align="center" > 🤝 Conéctate con nosotros </h3>
@@ -25,3 +24,9 @@
       </div>
 
 </p>
+
+<h3 align="center">
+	Servidor protegido por <a href="https://edgehosting.es">@edgehosting</a>
+</h3>
+
+<img src="assets/edgehosting-logo.png" alt="EdgeHosting Logo" align="left" width=200/></a>
